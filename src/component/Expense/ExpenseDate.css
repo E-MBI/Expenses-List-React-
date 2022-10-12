@@ -1,0 +1,28 @@
+.date {
+  width: 30%;
+  display: flex;
+  padding: 1rem;
+  color: #fff;
+  border-radius: 1rem;
+  border: 1px solid #fff;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1e1e1e;
+}
+
+.date > h3 {
+  margin: 0 auto;
+  font-weight: 500;
+}
+
+.date > h3:last-child {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+@media (max-width: 767px) {
+  .date {
+    width: 85%;
+    margin: 0rem auto;
+  }
+}

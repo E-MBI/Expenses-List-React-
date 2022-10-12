@@ -1,0 +1,21 @@
+.chart_bar {
+}
+
+.chart_bar > .chart_bar__inner {
+  width: 40%;
+  background: #9d86e778;
+  height: 18vh;
+  border: thin solid #85059bd6;
+  border-radius: 0.5rem;
+  margin: 1rem auto;
+  position: relative;
+}
+.chart_bar > .chart_bar__inner > .chart_bar__bg {
+  background: #5b006a;
+  position: absolute;
+  bottom: 0%;
+  width: 100%;
+  border-radius: 1rem;
+}
+.chart_bar > .chart_bar__label {
+}

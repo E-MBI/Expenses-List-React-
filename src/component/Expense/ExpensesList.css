@@ -1,0 +1,14 @@
+/* alerts Messages */
+.Not-found {
+  color: #fff;
+  font-size: 2rem;
+  background-color: #bb1c44f7;
+  border: none;
+  border-radius: 15px;
+  padding: 2rem;
+  width: 50%;
+  position: absolute;
+  left: 23%;
+  font-weight: 300;
+  top: 0%;
+}
